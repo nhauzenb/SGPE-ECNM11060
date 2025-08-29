@@ -38,7 +38,7 @@ The primary readings for the course are two textbooks (one of which is a book of
 
 * [*Koop, G. (2003) Bayesian Econometrics*](https://www.wiley.com/en-us/Bayesian+Econometrics-p-9780470845677).
 
-* [*Chan, J., Koop, G., Poirier, D. and Tobias, J. (2019). Bayesian Econometric Methods (second edition)*](https://www.cambridge.org/gb/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/bayesian-econometric-methods-2nd-edition?format=HB&isbn=9781108423380).
+* Chan, J., Koop, G., Poirier, D. and Tobias, J. (2019). [*Bayesian Econometric Methods (second edition)*](https://www.cambridge.org/gb/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/bayesian-econometric-methods-2nd-edition?format=HB&isbn=9781108423380).
 
 Additional handbooks, book chapters and monographs on relevant topics include: 
 
