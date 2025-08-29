@@ -26,7 +26,7 @@ The topics covered in the lectures include:
 1.	An overview of Bayesian econometrics
 2.	Bayesian inference in the Normal linear regression model
 3.	Overview of recent advances in Bayesian macroeconometrics
-4.	Introduction to Bayesian machine learning methods 
+4.	Introduction to Bayesian nonparametrics and machine learning methods 
 6.	Bayesian vector autoregressions (BVARs)
 7.	Bayesian state space models: TVP-VARs and Dynamic factor models (DFMs)
 
