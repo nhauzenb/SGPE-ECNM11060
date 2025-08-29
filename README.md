@@ -1,4 +1,4 @@
-# SGPE ECNM11049: Advanced Time Series Econometrics (ATSE) 
+# SGPE ECNM11060: Bayesian Econometrics (BAYES) 
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
