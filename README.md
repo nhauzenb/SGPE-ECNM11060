@@ -55,14 +55,17 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 ### Lecture Slides
 
-1. [State Space Models](./Lecture%20Slides/ATSE_State_Space_Models_2025.pdf) 
-2. [Nonlinear Time Series Models: Structural Breaks and Treshold Autoregression](./Lecture%20Slides/ATSE_Nonlinear_Time_Series_Models_1_2025.pdf)
-3. [Nonlinear Time Series Models: TVP Models and Neural Nets](./Lecture%20Slides/ATSE_Nonlinear_Time_Series_Models_2_2025.pdf)
-4. [The Static Factor Model and Principal Components](./Lecture%20Slides/ATSE_Factor_Models_1_2025.pdf)
-5. [Factor Models as State Space Models and the Dynamic Factor Model](./Lecture%20Slides/ATSE_Factor_Models_2_2025.pdf)
-6. [Mixed Frequency Models](./Lecture%20Slides/ATSE_Mixed_Frequency_Models_2025.pdf)
+1.	[Overview of Bayesian econometrics](./Lecture%20Slides/Topic1_Overview.pdf) 
+2.	[Bayesian Normal linear regression model](./Lecture%20Slides/Topic2_Regression.pdf) 
+3.	[Recent advances in Bayesian macroeconometrics](./Lecture%20Slides/Topic3_Bayes_Macro_Forecasting.pdf) 
+4.	[Bayesian machine learning methods](./Lecture%20Slides/Topic4_Bayesian_Machine_Learning.pdf) 
+5.	[Bayesian nonparametrics](./Lecture%20Slides/Topic5_Bayesian_Nonparametrics.pdf) 
+6.	[Bayesian vector autoregressions (BVARs)](./Lecture%20Slides/Topic6_VARs.pdf) 
+7.	[Bayesian state space models](./Lecture%20Slides/Topic7_State_Space_Models_Intro.pdf) 
+8.	[Bayesian TVP-VARs](./Lecture%20Slides/Topic8_TVPVAR_with_SV.pdf) 
+9.	[Bayesian Dynamic factor models (DFMs)](./Lecture%20Slides/Topic9_Factor_Models.pdf) 
 
-### Material for Computer Sessions
+### Material for Computer Sessions (Matlab)
 
 1. Material for [Computer Session 1](./Lab%20Material/Lab%201)
 2. Material for [Computer Session 2](./Lab%20Material/Lab%202)
