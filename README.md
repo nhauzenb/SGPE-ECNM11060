@@ -36,29 +36,22 @@ Assessment will be through an empirical project and a journal article summary. T
 
 The primary readings for the course are two textbooks (one of which is a book of solved exercises) which provide much more detail (and computer code in the case of the book of solved exercises) for most of the topics covered in the course:
 
-* [*Koop, G. (2003) Bayesian Econometrics*](https://www.wiley.com/en-us/Bayesian+Econometrics-p-9780470845677).
+* Koop, G. (2003) [*Bayesian Econometrics*](https://www.wiley.com/en-us/Bayesian+Econometrics-p-9780470845677).
 
 * Chan, J., Koop, G., Poirier, D. and Tobias, J. (2019). [*Bayesian Econometric Methods (second edition)*](https://www.cambridge.org/gb/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/bayesian-econometric-methods-2nd-edition?format=HB&isbn=9781108423380).
 
 Additional handbooks, book chapters and monographs on relevant topics include: 
 
-* [*Koop, G. and Korobilis, D. (2009). Bayesian Multivariate Time Series Methods for Empirical Macroeconomics*](https://drive.google.com/file/d/0BzOpR8T359fhQ0dzT0wzUHZFMFU/view?resourcekey=0-yo-myUZGirhjJ3Tm728KjQ); Matlab codes available [here](https://sites.google.com/site/dimitriskorobilis/matlab/code-for-vars)
-* [*Dieppe, A., Legrand, R. and van Roye, B. (2016). The BEAR Toolbox.*](https://www.ecb.europa.eu/press/research-publications/working-papers/html/bear-toolbox.en.html)
-* [*Blake, A. and Mumtaz, H. (2017). Applied Bayesian Econometrics for Central Bankers.*](https://www.bankofengland.co.uk/-/media/boe/files/ccbs/resources/applied-bayesian-econometrics-for-central-bankers-updated-2017.pdf); Matlab codes available [here](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
-* [*Chan, J. (2020). Large Bayesian Vector Autoregressions.*](http://joshuachan.org/papers/large_BVAR.pdf)
-* [*Feldkircher, M., Huber, F., and Pfarrhofer, M. (2020). Factor Augmented Vector Autoregressions, Panel VARs, and Global VARs.*](https://link.springer.com/chapter/10.1007/978-3-030-31150-6_3)
-* [*Chan, J. (2024). BVARs and Stochastic Volatility.*](http://joshuachan.org/papers/BVAR-SV.pdf)
-* [*Hauzenberger, N., Huber, F., and Koop, G. (2024). Macroeconomic forecasting using BVARs.*](https://www.dropbox.com/scl/fi/cry8xuxkwwdtc3matz8g1/HHK_bookchp.pdf?rlkey=45ysy3b2hpqykkxormms9bipe&e=1&dl=0); R codes available [here](https://github.com/nhauzenb/hhk-bkchpt-bvars)
-* [*Marcellino, M. and Pfarrhofer M. (2024). Bayesian nonparametric methods for macroeconomic forecasting.*](https://repec.unibocconi.it/baffic/baf/papers/cbafwp24224.pdf)
+* Koop, G. and Korobilis, D. (2009). [*Bayesian Multivariate Time Series Methods for Empirical Macroeconomics*](https://drive.google.com/file/d/0BzOpR8T359fhQ0dzT0wzUHZFMFU/view?resourcekey=0-yo-myUZGirhjJ3Tm728KjQ); Matlab codes available [here](https://sites.google.com/site/dimitriskorobilis/matlab/code-for-vars).
+* Dieppe, A., Legrand, R. and van Roye, B. (2016). [*The BEAR Toolbox*](https://www.ecb.europa.eu/press/research-publications/working-papers/html/bear-toolbox.en.html).
+* Blake, A. and Mumtaz, H. (2017). [*Applied Bayesian Econometrics for Central Bankers*](https://www.bankofengland.co.uk/-/media/boe/files/ccbs/resources/applied-bayesian-econometrics-for-central-bankers-updated-2017.pdf); Matlab codes available [here](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017).
+* Chan, J. (2020). [*Large Bayesian Vector Autoregressions*](http://joshuachan.org/papers/large_BVAR.pdf).
+* Feldkircher, M., Huber, F., and Pfarrhofer, M. (2020). [*Factor Augmented Vector Autoregressions, Panel VARs, and Global VARs*](https://link.springer.com/chapter/10.1007/978-3-030-31150-6_3).
+* Chan, J. (2024). [*BVARs and Stochastic Volatility*](http://joshuachan.org/papers/BVAR-SV.pdf).
+* Hauzenberger, N., Huber, F., and Koop, G. (2024). [*Macroeconomic forecasting using BVARs*](https://www.dropbox.com/scl/fi/cry8xuxkwwdtc3matz8g1/HHK_bookchp.pdf?rlkey=45ysy3b2hpqykkxormms9bipe&e=1&dl=0); R codes available [here](https://github.com/nhauzenb/hhk-bkchpt-bvars).
+* Marcellino, M. and Pfarrhofer M. (2024). [*Bayesian nonparametric methods for macroeconomic forecasting*](https://repec.unibocconi.it/baffic/baf/papers/cbafwp24224.pdf).
 
-Colleagues and co-authors who provide excellent code repositories and replication packages for published papers, books, and teaching:
-* [Joshua Chan](http://joshuachan.org/code.html)
-* [Florian Huber](https://sites.google.com/site/fhuber7/computer-codes) 
-* [Karin Klieber](https://sites.google.com/view/karin-klieber/codes-data)
-* [Gary Koop](https://sites.google.com/site/garykoop/home/computer-code-2)
-* [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/matlab)
-* [Michael Pfarrhofer](https://github.com/mpfarrho?tab=repositories)
-* [Aubrey Poon](https://sites.google.com/view/aubreybcpoon/teaching-and-notes) 
+Colleagues and co-authors who provide excellent code repositories and replication packages for published papers, books, and teaching: [Joshua Chan](http://joshuachan.org/code.html), [Florian Huber](https://sites.google.com/site/fhuber7/computer-codes), [Karin Klieber](https://sites.google.com/view/karin-klieber/codes-data), [Gary Koop](https://sites.google.com/site/garykoop/home/computer-code-2), [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/matlab), [Michael Pfarrhofer](https://github.com/mpfarrho?tab=repositories), [Aubrey Poon](https://sites.google.com/view/aubreybcpoon/teaching-and-notes).
 
 ### Lecture Slides
 
@@ -71,9 +64,6 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 ### Material for Computer Sessions
 
-Make sure you download **R** and learn how to use it **BEFORE** for the first computer session. Instructions provided in Lab 0. 
-
-0. [Installing and Using R](./Lab%20Material/Lab%200)
 1. Material for [Computer Session 1](./Lab%20Material/Lab%201)
 2. Material for [Computer Session 2](./Lab%20Material/Lab%202)
 3. Material for [Computer Session 3](./Lab%20Material/Lab%203)
