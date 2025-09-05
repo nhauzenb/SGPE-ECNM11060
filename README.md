@@ -67,8 +67,8 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 ### Material for Computer Sessions (Matlab)
 
-1. Material for [Computer Session 1](https://nhauzenb.github.io/SGPE-ECNM11060/Lab%20Material/Lab%201/)
-2. Material for [Computer Session 2](https://nhauzenb.github.io/SGPE-ECNM11060/Lab%20Material/Lab%202/)
-3. Material for [Computer Session 3](https://nhauzenb.github.io/SGPE-ECNM11060/Lab%20Material/Lab%203/)
-4. Material for [Computer Session 4](https://nhauzenb.github.io/SGPE-ECNM11060/Lab%20Material/Lab%204/)
+1. Material for [Computer Session 1](./Lab%20Material/Lab%201/)
+2. Material for [Computer Session 2](./Lab%20Material/Lab%202/)
+3. Material for [Computer Session 3](./Lab%20Material/Lab%203/)
+4. Material for [Computer Session 4](./Lab%204/)
 
