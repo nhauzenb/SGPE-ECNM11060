@@ -9,9 +9,9 @@ We are very thankful to [Gary Koop](https://sites.google.com/site/garykoop/home)
 
 ### Teaching Team
 
-**Lecturer & Course Organiser:** Niko Hauzenberger (niko.hauzenberger@strath.ac.uk; https://nhauzenb.github.io/)
+**Lecturer & Course Organiser:** Niko Hauzenberger ([niko.hauzenberger@strath.ac.uk](mailto:niko.hauzenberger@strath.ac.uk); [nhauzenb.github.io](https://nhauzenb.github.io/))
 
-**Lecturer:** Ping Wu (ping.wu@strath.ac.uk; https://pingwu.org/)
+**Lecturer:** Ping Wu ([ping.wu@strath.ac.uk](mailto:ping.wu@strath.ac.uk); [pingwu.org](https://pingwu.org/))
 
 **Tutor:** TBC
 
