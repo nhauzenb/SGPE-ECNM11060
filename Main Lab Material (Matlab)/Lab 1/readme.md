@@ -3,5 +3,5 @@
 ## N. Hauzenberger & P. Wu
 
 ### [Lab No. 1 - Matlab basics (Handout)](./Handout.pdf)
-### [Lab No. 1 - Matlab basics (Questions)](./Lab%201/Question.pdf)
-### [Lab No. 1 - Matlab basics (Material)](./Lab%201/)
+### [Lab No. 1 - Matlab basics (Questions)](./Question.pdf)
+### [Lab No. 1 - Matlab basics (Material)](./Material/)
