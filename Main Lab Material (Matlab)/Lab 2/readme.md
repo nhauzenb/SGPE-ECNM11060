@@ -2,6 +2,6 @@
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
-### [Lab No. 2 - Bayesian regression model (Handout)](https://github.com/nhauzenb/SGPE-ECNM11060/blob/main/Main%20Lab%20Material%20(Matlab)/Lab%202/Handout.pdf)
-### [Lab No. 2 - Bayesian regression model (Questions)](https://github.com/nhauzenb/SGPE-ECNM11060/blob/main/Main%20Lab%20Material%20(Matlab)/Lab%202/Question.pdf)
-### [Lab No. 2 - Bayesian regression model (Material)](https://github.com/nhauzenb/SGPE-ECNM11060/blob/main/Main%20Lab%20Material%20(Matlab)/Lab%202/)
+### [Lab No. 2 - Bayesian regression model (Handout)](./Handout.pdf)
+### [Lab No. 2 - Bayesian regression model (Questions)](./Question.pdf)
+### [Lab No. 2 - Bayesian regression model (Material)](./Material/)
