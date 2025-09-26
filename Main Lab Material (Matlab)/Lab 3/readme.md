@@ -4,4 +4,4 @@
 
 ### [Lab No. 3 - Machine learning methods and VARs (Handout)](./Handout.pdf)
 ### [Lab No. 3 - Machine learning methods and VARs (Questions)](./Questions.pdf)
-### [Lab No. 3 - Machine learning methods and VARs (Material)](./Material/)
+### [Lab No. 3 - Machine learning methods and VARs (Material)](https://github.com/nhauzenb/SGPE-ECNM11060/tree/main/Main%20Lab%20Material%20(Matlab)/Lab%203)
