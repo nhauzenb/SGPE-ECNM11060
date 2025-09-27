@@ -1,4 +1,4 @@
-# Econometrics (BAYES) 
+# Bayesian Econometrics (BAYES) 
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
