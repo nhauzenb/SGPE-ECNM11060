@@ -13,7 +13,7 @@ We are very thankful to [Gary Koop](https://sites.google.com/site/garykoop/home)
 
 **Lecturer:** Ping Wu ([ping.wu@strath.ac.uk](mailto:ping.wu@strath.ac.uk); [pingwu.org](https://pingwu.org/))
 
-**Tutor:** TBC
+**Tutor:** Zhoulihua Zhang ([zhoulihua.zhang@strath.ac.uk](mailto:zhoulihua.zhang@strath.ac.uk))
 
 **Office Hours:** Immediately after the lecture or online via Zoom (in this case email in advance)
 
@@ -30,7 +30,7 @@ The topics covered in the lectures include:
 6.	Bayesian vector autoregressions (BVARs)
 7.	Bayesian state space models: TVP-VARs and Dynamic factor models (DFMs)
 
-Assessment will be through an empirical project and a journal article summary. The empirical project will be worth 60% of the final grade and the journal article summary worth 40%. There will be no exam. Detailed instructions for each are available on the course website. The deadline for the journal article summary will be 12 noon, 10 April 2026 and the deadline for the empirical project will be 12 noon, 29 May 2026. Detailed written feedback and marks will be returned within two weeks of assessment submission.
+Assessment will be through an empirical project and a journal article summary. The empirical project will be worth 60% of the final grade and the journal article summary worth 40%. There will be no exam. The deadline for the journal article summary will be 12 noon, 10 April 2026 and the deadline for the empirical project will be 12 noon, 29 May 2026. Detailed written feedback and marks will be returned within two weeks of assessment submission. Detailed instructions will be added in due course. 
 
 ### Reading List
 
@@ -71,4 +71,4 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 2. Material for [Computer Session 2](./Main%20Lab%20Material%20(Matlab)/Lab%202)
 3. Material for [Computer Session 3](./Main%20Lab%20Material%20(Matlab)/Lab%203)
 4. Material for [Computer Session 4](./Main%20Lab%20Material%20(Matlab)/Lab%204)
-
+ 
