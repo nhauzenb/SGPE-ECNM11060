@@ -19,7 +19,7 @@ We are very thankful to [Gary Koop](https://sites.google.com/site/garykoop/home)
 
 ### Course Organisation
 
-This course takes place in block 4 (semester 2) over six weeks and involves lectures and computer sessions. The lectures are given by Niko Hauzenberger and Ping Wu, while the computer sessions are given by [...]. You can find out more about the teaching team from their websites.
+This course takes place in block 4 (semester 2) over six weeks and involves lectures and computer sessions. The lectures are given by Niko Hauzenberger and Ping Wu, while the computer sessions are given by Zhoulihua Zhang. You can find out more about the teaching team from their websites.
 
 The topics covered in the lectures include:
 
