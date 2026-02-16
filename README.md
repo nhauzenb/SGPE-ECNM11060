@@ -75,6 +75,6 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 ### Instructions for Assessments 
 
 * [Journal Article Review](SGPE-ECNM11060_2026_Journal-Article-Review.pdf)
-* [Empirical Project](ATSE_Mock%20Exam.pdf) 
+* [Empirical Project](SGPE-ECNM11060_2026_Empirical-Project.pdf) 
 
  
