@@ -71,4 +71,10 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 2. Material for [Computer Session 2](./Main%20Lab%20Material%20(Matlab)/Lab%202)
 3. Material for [Computer Session 3](./Main%20Lab%20Material%20(Matlab)/Lab%203)
 4. Material for [Computer Session 4](./Main%20Lab%20Material%20(Matlab)/Lab%204)
+
+### Instructions for Assessments 
+
+* [Journal Article Review](SGPE-ECNM11060_2026_Journal-Article-Review.pdf)
+* [Empirical Project](ATSE_Mock%20Exam.pdf) 
+
  
