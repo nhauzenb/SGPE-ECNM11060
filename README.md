@@ -19,8 +19,7 @@ We are very thankful to [Gary Koop](https://sites.google.com/site/garykoop/home)
 
 ### Course Overview
 
-[Course Outline (pdf)](SGPE-ECNM11060_2026_Course-Outline.pdf) 
-[Course Outline (slides)](SGPE-ECNM11060_2026_Course-Overview.pdf) 
+[Course Outline (pdf)](SGPE-ECNM11060_2026_Course-Outline.pdf); [Course Outline (slides)](SGPE-ECNM11060_2026_Course-Overview.pdf) 
 
 
 ### Course Organisation
