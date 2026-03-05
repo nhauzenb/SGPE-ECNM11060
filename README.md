@@ -60,7 +60,7 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 ### Lecture Slides
 
-1.	[Overview of Bayesian econometrics](./Lecture%20Slides/Topic1_Overview.pdf) 
+1.	[Overview of Bayesian econometrics](./Lecture%20Slides//SGPE-ECNM11060_Lecture-1.pdf) 
 2.	[Bayesian Normal linear regression model](./Lecture%20Slides/Topic2_Regression.pdf) 
 3.	[Recent advances in Bayesian macroeconometrics](./Lecture%20Slides/Topic3_Bayes_Macro_Forecasting.pdf) 
 4.	[Bayesian machine learning methods](./Lecture%20Slides/Topic4_Bayesian_Machine_Learning.pdf) 
