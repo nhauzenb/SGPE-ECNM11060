@@ -62,13 +62,16 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 1.	[Overview of Bayesian econometrics](./Lecture%20Slides//SGPE-ECNM11060_Lecture-1.pdf) 
 2.	[Bayesian linear regression model](./Lecture%20Slides//SGPE-ECNM11060_Lecture-2.pdf)
-3.	[Recent advances in Bayesian macroeconometrics](./Lecture%20Slides/Topic3_Bayes_Macro_Forecasting.pdf) 
-4.	[Bayesian machine learning methods](./Lecture%20Slides/Topic4_Bayesian_Machine_Learning.pdf) 
-5.	[Bayesian nonparametrics](./Lecture%20Slides/Topic5_Bayesian_Nonparametrics.pdf) 
-6.	[Bayesian vector autoregressions (BVARs)](./Lecture%20Slides/Topic6_VARs.pdf) 
-7.	[Bayesian state space models](./Lecture%20Slides/Topic7_State_Space_Models_Intro.pdf) 
-8.	[Bayesian TVP-VARs](./Lecture%20Slides/Topic8_TVPVAR_with_SV.pdf) 
-9.	[Bayesian Dynamic factor models (DFMs)](./Lecture%20Slides/Topic9_Factor_Models.pdf) 
+3.1	[Bayesian machine learning methods](./Lecture%20Slides//SGPE-ECNM11060_Lecture-3-Parti.pdf) 
+3.2	[Bayesian nonparametrics](./Lecture%20Slides//SGPE-ECNM11060_Lecture-3-Partii.pdf)  
+4.	[Bayesian vector autoregressions (BVARs)](./Lecture%20Slides/Topic6_VARs.pdf) 
+5.	[Bayesian state space models](./Lecture%20Slides/Topic7_State_Space_Models_Intro.pdf) 
+6.1	[Bayesian TVP-VARs](./Lecture%20Slides/Topic8_TVPVAR_with_SV.pdf) 
+6.2	[Bayesian Dynamic factor models (DFMs)](./Lecture%20Slides/Topic9_Factor_Models.pdf) 
+
+#### Additional slides not covered in the lecture
+*	[Recent advances in Bayesian macroeconometrics](./Lecture%20Slides/Topic3_Bayes_Macro_Forecasting.pdf) 
+
 
 ### Material for Computer Sessions (Matlab)
 
