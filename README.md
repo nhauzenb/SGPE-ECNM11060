@@ -60,10 +60,10 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 
 ### Lecture Slides
 
-1.	[Overview of Bayesian econometrics](./Lecture%20Slides//SGPE-ECNM11060_Lecture-1.pdf) 
-2.	[Bayesian linear regression model](./Lecture%20Slides//SGPE-ECNM11060_Lecture-2.pdf)
-3.	[Bayesian machine learning methods](./Lecture%20Slides//SGPE-ECNM11060_Lecture-3-Parti.pdf)
-4.	[Bayesian nonparametrics](./Lecture%20Slides//SGPE-ECNM11060_Lecture-3-Partii.pdf)
+1.	[Overview of Bayesian econometrics](./Lecture%20Slides/SGPE-ECNM11060_Lecture-1.pdf) 
+2.	[Bayesian linear regression model](./Lecture%20Slides/SGPE-ECNM11060_Lecture-2.pdf)
+3.	[Bayesian machine learning methods](./Lecture%20Slides/SGPE-ECNM11060-Lecture-3-Parti.pdf) 
+4.	[Bayesian nonparametrics](./Lecture%20Slides/SGPE-ECNM11060-Lecture-3-Partii.pdf)
 5.	[Bayesian vector autoregressions (BVARs)](./Lecture%20Slides/Topic6_VARs.pdf)
 6.	[Bayesian state space models](./Lecture%20Slides/Topic7_State_Space_Models_Intro.pdf)
 7.	[Bayesian TVP-VARs](./Lecture%20Slides/Topic8_TVPVAR_with_SV.pdf)
