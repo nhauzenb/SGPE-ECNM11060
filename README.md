@@ -33,7 +33,7 @@ The topics covered in the lectures include:
 3.	Overview of recent advances in Bayesian macroeconometrics
 4.	Introduction to Bayesian nonparametrics and machine learning methods 
 6.	Bayesian vector autoregressions (BVARs)
-7.	Bayesian state space models: TVP-VARs and Dynamic factor models (DFMs)
+7.	Bayesian state space models: TVP-VARs and dynamic factor models (DFMs)
 
 Assessment will be through an empirical project and a journal article summary. The empirical project will be worth 60% of the final grade and the journal article summary worth 40%. There will be no exam. The deadline for the journal article summary will be 12 noon, 10 April 2026 and the deadline for the empirical project will be 12 noon, 29 May 2026. Detailed written feedback and marks will be returned within two weeks of assessment submission. Detailed instructions will be added in due course. 
 
@@ -65,8 +65,8 @@ Colleagues and co-authors who provide excellent code repositories and replicatio
 3.	[Bayesian machine learning methods](./Lecture%20Slides/SGPE-ECNM11060-Lecture-3-Parti.pdf) 
 4.	[Bayesian nonparametrics](./Lecture%20Slides/SGPE-ECNM11060-Lecture-3-Partii.pdf)
 5.	[Bayesian vector autoregressions (BVARs)](./Lecture%20Slides/SGPE-ECNM11060_Lecture-4.pdf)
-6.	[Bayesian state space models and TVP-VARs](./Lecture%20Slides/SGPE-ECNM11060_Lecture-5.pdf)
-7.	[Bayesian Dynamic factor models (DFMs)](./Lecture%20Slides/Topic9_Factor_Models.pdf) 
+6.	[Overview of Bayesian state space models](./Lecture%20Slides/SGPE-ECNM11060_Lecture-5.pdf)
+7.	[Popular Bayesian state space models in macroeconometrics](./Lecture%20Slides/SGPE-ECNM11060_Lecture-6.pdf) 
 
 #### Additional slides not covered in the lecture
 *	[Recent advances in Bayesian macroeconometrics](./Lecture%20Slides/Topic3_Bayes_Macro_Forecasting.pdf) 
